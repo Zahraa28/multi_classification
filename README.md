@@ -13,5 +13,8 @@ It classifies images into different categories using a pre-trained model.
 - **Architecture**: ResNet-18 (Pre-trained on ImageNet)
 - **Loss Function**: CrossEntropyLoss
 - **Optimizer**: Adam (Learning rate = 0.001)
-- **Training**: 10 epochs, batch size = 32
-- **Performance**: Achieved [your accuracy] accuracy
+- **Training**: 20 epochs, batch size = 32
+
+## 🔥 Results  
+🔹 **Training Accuracy**: 99.72%  
+🔹 **Validation Accuracy**: 52.13%  
