@@ -17,4 +17,4 @@ It classifies images into different categories using a pre-trained model.
 
 ## 🔥 Results  
 🔹 **Training Accuracy**: 99.72%  
-🔹 **Validation Accuracy**: 52.13%  
+🔹 **Validation Accuracy**: 52.13%  (Looking to improve this!)  
